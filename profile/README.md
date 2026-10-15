@@ -31,3 +31,10 @@ We plan to make the organization easier to navigate by introducing a consistent 
 - [ ] Evaluate organization custom properties for structured category and maintenance-status filters.
 
 For new repositories, include a clear description and relevant topics, and add a link to the directory once it is available.
+
+## Licensing and credit
+
+See the [licensing, software attribution and scientific credit guide](../CITATION_GUIDANCE.md)
+for preserving each project's notices and contributor credits, and for choosing
+scientific citations according to the software actually used. Each repository's
+own licence and citation metadata remain authoritative.
